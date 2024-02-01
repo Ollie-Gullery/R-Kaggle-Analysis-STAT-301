@@ -1,7 +1,7 @@
-#### Statistical Modelling For Data Science in R
+# Statistical Modelling For Data Science in R
 
 Project for Stat301 - performing analysis on the Airbnb Kaggle Dataset
 
 
-## Authors
+### Authors
 Oliver, Sam, Riddhi, Kourosh
